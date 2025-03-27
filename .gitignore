@@ -3,3 +3,6 @@
 
 # Figma
 *.fig
+
+# Dependencies
+node_modules
